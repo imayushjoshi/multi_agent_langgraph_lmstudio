@@ -37,8 +37,8 @@ The system is built as a state graph where data flows through a specific sequenc
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/local-multi-agent-rag.git
-    cd local-multi-agent-rag
+    git clone https://github.com/imayushjoshi/multi_agent_langgraph_lmstudio.git
+    cd multi_agent_langgraph_lmstudio
     ```
 
 2.  **Install dependencies:**
